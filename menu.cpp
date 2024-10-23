@@ -1,7 +1,6 @@
 #include<iostream>
 #include"rlutil.h"
 #include"chimp.h"
-#include"globales.h"
 using namespace std;
 int y=0;
 
@@ -13,7 +12,7 @@ void menu ()
     {
         system("cls");
 
-        rlutil::hidecursor;
+        rlutil::hidecursor();
         rlutil::locate (52,10);
         cout<<"CHIMPOCO FIGHT"<<endl;
         rlutil::locate (54,12);
