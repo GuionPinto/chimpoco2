@@ -1,19 +1,19 @@
 #include<iostream>
 #include"rlutil.h"
 #include"chimp.h"
-#include"globales.h"
 using namespace std;
 int y=0;
 
 
 void menu ()
 {
+    int chimpoco[7];
     bool n=true;
     while(n!=false)
     {
         system("cls");
 
-        rlutil::hidecursor;
+        rlutil::hidecursor();
         rlutil::locate (52,10);
         cout<<"CHIMPOCO FIGHT"<<endl;
         rlutil::locate (54,12);
@@ -64,7 +64,7 @@ void menu ()
             switch (y)
             {
             case 0: //Aventura
-                chimp();
+                chimp(chimpoco);
                 break;
 
             case 1: //Versus

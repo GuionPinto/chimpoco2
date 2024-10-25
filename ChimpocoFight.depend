@@ -2,13 +2,12 @@
 1728389506 source:c:\users\administrador\desktop\chimpocofight\visuales.cpp
 	<iostream>
 
-1728993095 source:c:\users\administrador\desktop\chimpocofight\main.cpp
+1729463517 source:c:\users\administrador\desktop\chimpocofight\main.cpp
 	<iostream>
 	"rlutil.h"
 	"menu.h"
-	"chimp.h"
 
-1728993288 c:\users\administrador\desktop\chimpocofight\menu.h
+1729463540 c:\users\administrador\desktop\chimpocofight\menu.h
 	<iostream>
 
 1728925333 c:\users\administrador\desktop\chimpocofight\rlutil.h
@@ -25,7 +24,7 @@
 	<sys/types.h>
 	<sys/time.h>
 
-1728997192 source:c:\users\administrador\desktop\chimpocofight\menu.cpp
+1729554575 source:c:\users\administrador\desktop\chimpocofight\menu.cpp
 	<iostream>
 	"rlutil.h"
 	"chimp.h"
@@ -33,67 +32,14 @@
 1728992487 c:\users\administrador\desktop\chimpocofight\chimp.h
 	<iostream>
 
-1728997391 source:c:\users\administrador\desktop\chimpocofight\chimp.cpp
+1729862756 source:c:\users\administrador\desktop\chimpocofight\chimp.cpp
 	<iostream>
 	"rlutil.h"
 	<stdlib.h>
+	<cstdlib>
+	<ctime>
 
-1729553690 source:c:\users\gomes\downloads\chimpocofight (2)\chimpocofight\chimp.cpp
-	<iostream>
-	"rlutil.h"
-	<stdlib.h>
+1729431830 c:\users\administrador\desktop\chimpocofight\menues.h
 
-1728925333 c:\users\gomes\downloads\chimpocofight (2)\chimpocofight\rlutil.h
-	<iostream>
-	<string>
-	<cstdio>
-	<stdio.h>
-	<string.h>
-	<windows.h>
-	<conio.h>
-	<termios.h>
-	<unistd.h>
-	<sys/ioctl.h>
-	<sys/types.h>
-	<sys/time.h>
-
-1729553188 source:c:\users\gomes\downloads\chimpocofight (2)\chimpocofight\main.cpp
-	<iostream>
-	"rlutil.h"
-	"menu.h"
-	"chimp.h"
-
-1728993288 c:\users\gomes\downloads\chimpocofight (2)\chimpocofight\menu.h
-	<iostream>
-
-1728992487 c:\users\gomes\downloads\chimpocofight (2)\chimpocofight\chimp.h
-	<iostream>
-
-1729553558 source:c:\users\gomes\downloads\chimpocofight (2)\chimpocofight\menu.cpp
-	<iostream>
-	"rlutil.h"
-	"chimp.h"
-	"globales.h"
-
-1729476754 source:c:\users\gomes\downloads\inicializar.cpp
-	<iostream>
-	"inicializar.h"
-	<time.h>
-
-1729476757 c:\users\gomes\downloads\inicializar.h
-
-1729476757 c:\users\gomes\downloads\chimpocofight (2)\chimpocofight\inicializar.h
-
-1729523302 source:c:\users\gomes\downloads\chimpocofight (2)\chimpocofight\inicializar.cpp
-	<iostream>
-	<time.h>
-	"inicializar.h"
-	"globales.h"
-
-1729525183 c:\users\gomes\downloads\chimpocofight (2)\chimpocofight\globales.h
-	<vector>
-
-1729524885 source:c:\users\gomes\downloads\chimpocofight (2)\chimpocofight\globales.cpp
-	<iostream>
-	"globales.h"
+1729601987 c:\users\administrador\desktop\chimpocofight\aventura.h
 
